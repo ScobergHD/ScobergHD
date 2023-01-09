@@ -1,4 +1,14 @@
-### Hi there 👋
+# Jordan Scoberg: @j-scoberg
+
+Hi, I'm Jordan 👋, a Data Scientist at Hywel Dda University Health Board :hospital: aiming to deliver data insights :crystal_ball: that help improve service delivery :chart_with_upwards_trend: and patient outcomes :raised_hands:
+
+## Previous experience
+- Neuroscience PhD at Cardiff Univeristy :microscope:
+- Management Consultant at PwC UK :office:
+- Business Analyst at Cardiff Univeristy :mag:
+- Project Manager at Life Sciences Hub Wales :clipboard:
+
+
 
 <!--
 **j-scoberg/j-scoberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
