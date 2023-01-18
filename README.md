@@ -1,4 +1,4 @@
-# Jordan Scoberg: @j-scoberg
+# Jordan Scoberg: @ScobergHD
 
 Hi, I'm Jordan 👋, a Data Scientist at Hywel Dda University Health Board :hospital: aiming to deliver data insights :crystal_ball: that help improve service delivery :chart_with_upwards_trend: and patient outcomes :raised_hands:
 
