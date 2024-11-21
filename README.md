@@ -5,7 +5,7 @@ Hi, I'm Jordan 👋, a Data Scientist at Hywel Dda University Health Board :hosp
 ## Previous experience
 - Neuroscience PhD at Cardiff University :microscope:
 - Management Consultant at PwC UK :office:
-- Business Analyst at Cardiff Univeristy :mag:
+- Business Analyst at Cardiff University :mag:
 - Project Manager at Life Sciences Hub Wales :clipboard:
 
 
